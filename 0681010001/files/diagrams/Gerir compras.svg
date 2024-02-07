@@ -52,7 +52,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 230, 384)" id="gfx-45d5a569-d7fa-4015-ac9a-e16dc5603de5" display="block" class="djs-element djs-shape" data-element-id="45d5a569-d7fa-4015-ac9a-e16dc5603de5">
+    <g transform="matrix(1, 0, 0, 1, 230, 384)" id="gfx-22549d8a-64c3-438d-a9ca-14510f0119d1" display="block" class="djs-element djs-shape" data-element-id="22549d8a-64c3-438d-a9ca-14510f0119d1">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="35" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="30" class="djs-svg-text">
@@ -79,7 +79,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 382, 384)" id="gfx-8f27b6b9-95c8-4571-961c-683acabb4a81" display="block" class="djs-element djs-shape" data-element-id="8f27b6b9-95c8-4571-961c-683acabb4a81">
+    <g transform="matrix(1, 0, 0, 1, 382, 384)" id="gfx-f4e9b9ef-5fe9-4fa4-adb2-d34d94d6084e" display="block" class="djs-element djs-shape" data-element-id="f4e9b9ef-5fe9-4fa4-adb2-d34d94d6084e">
       <g class="djs-visual">
         <rect x="0" y="0" width="98" height="53" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="98" height="48" class="djs-svg-text">
@@ -106,7 +106,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 537, 384)" id="gfx-7225b441-c128-4272-9b61-0695e0a31d0e" display="block" class="djs-element djs-shape" data-element-id="7225b441-c128-4272-9b61-0695e0a31d0e">
+    <g transform="matrix(1, 0, 0, 1, 537, 384)" id="gfx-0a78df80-5739-404b-b6d5-65e563d845f7" display="block" class="djs-element djs-shape" data-element-id="0a78df80-5739-404b-b6d5-65e563d845f7">
       <g class="djs-visual">
         <rect x="0" y="0" width="101" height="53" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="101" height="48" class="djs-svg-text">
@@ -133,7 +133,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 699, 384)" id="gfx-c47de43c-434c-4243-acc4-e7483317bcb4" display="block" class="djs-element djs-shape" data-element-id="c47de43c-434c-4243-acc4-e7483317bcb4">
+    <g transform="matrix(1, 0, 0, 1, 699, 384)" id="gfx-f5444fb5-7c70-466c-a079-267150c0819f" display="block" class="djs-element djs-shape" data-element-id="f5444fb5-7c70-466c-a079-267150c0819f">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -157,7 +157,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 101, 366)" id="gfx-c704ed5a-3f2d-4eee-a1ca-17d416766d4e" display="block" class="djs-element djs-shape" data-element-id="c704ed5a-3f2d-4eee-a1ca-17d416766d4e">
+    <g transform="matrix(1, 0, 0, 1, 101, 366)" id="gfx-f7ea905f-5a91-4f88-a819-8eb906badce4" display="block" class="djs-element djs-shape" data-element-id="f7ea905f-5a91-4f88-a819-8eb906badce4">
       <g class="djs-visual">
         <rect x="0" y="0" width="109" height="48" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="109" height="43" class="djs-svg-text">
@@ -183,7 +183,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 822, 370)" id="gfx-55241017-5f83-4bc0-9a86-292364310057" display="block" class="djs-element djs-shape" data-element-id="55241017-5f83-4bc0-9a86-292364310057">
+    <g transform="matrix(1, 0, 0, 1, 822, 370)" id="gfx-3ce744e0-8991-4415-af57-0e155469854a" display="block" class="djs-element djs-shape" data-element-id="3ce744e0-8991-4415-af57-0e155469854a">
       <g class="djs-visual">
         <rect x="0" y="0" width="96" height="53" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="96" height="48" class="djs-svg-text">
@@ -229,7 +229,7 @@
         <tspan x="0" y="13.25">Gerência de Negócios/ Funape</tspan>
       </text>
       <text transform="translate(100, 88)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-svg-text" style="fill:black;">
-        <tspan x="0" y="13.25">V1.0.1 (05/02/2024)</tspan>
+        <tspan x="0" y="13.25">V1.0.2 (07/02/2024)</tspan>
       </text>
       <image preserveAspectRatio="none" x="100" y="108" width="239" height="81" xlink:href="data:image/png;base64,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" class="djs-html-text" />
     </g>
