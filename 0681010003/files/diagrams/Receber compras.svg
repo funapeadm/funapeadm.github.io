@@ -121,7 +121,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 160.5, 393.5)" id="gfx-7a67071b-e171-45ed-9961-e9352a2e9ef8" display="block" class="djs-element djs-shape" data-element-id="7a67071b-e171-45ed-9961-e9352a2e9ef8">
+    <g transform="matrix(1, 0, 0, 1, 160, 394)" id="gfx-921f41e0-6179-4bd8-a48a-ea9b4bf5c565" display="block" class="djs-element djs-shape" data-element-id="921f41e0-6179-4bd8-a48a-ea9b4bf5c565">
       <g class="djs-visual">
         <rect x="0" y="0" width="95" height="53" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="95" height="48" class="djs-svg-text">
@@ -150,7 +150,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 661.5, 393.5)" id="gfx-0ed33a1e-edd9-4721-8e11-d8188b65257d" display="block" class="djs-element djs-shape" data-element-id="0ed33a1e-edd9-4721-8e11-d8188b65257d">
+    <g transform="matrix(1, 0, 0, 1, 662, 394)" id="gfx-9e7b111e-df01-434e-ba96-76dc1bb1c951" display="block" class="djs-element djs-shape" data-element-id="9e7b111e-df01-434e-ba96-76dc1bb1c951">
       <g class="djs-visual">
         <rect x="0" y="0" width="93" height="53" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="93" height="48" class="djs-svg-text">
@@ -229,7 +229,7 @@
         <tspan x="0" y="13.25">Gerência de Negócios/ Funape</tspan>
       </text>
       <text transform="translate(100, 88)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-svg-text" style="fill:black;">
-        <tspan x="0" y="13.25">V1.0.2 (12/04/2024)</tspan>
+        <tspan x="0" y="13.25">V1.0.3 (11/06/2024)</tspan>
       </text>
       <image preserveAspectRatio="none" x="100" y="108" width="239" height="81" xlink:href="data:image/png;base64,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" class="djs-html-text" />
     </g>
